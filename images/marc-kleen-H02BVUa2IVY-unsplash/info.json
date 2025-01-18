@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 85,
+    "height" : 119
+  }, {
+    "width" : 169,
+    "height" : 237
+  }, {
+    "width" : 338,
+    "height" : 473
+  }, {
+    "width" : 676,
+    "height" : 946
+  }, {
+    "width" : 1351,
+    "height" : 1892
+  }, {
+    "width" : 2702,
+    "height" : 3783
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2702,
+  "@id" : "https://samirarnj.github.io/multimodal/images/marc-kleen-H02BVUa2IVY-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3783
+}
