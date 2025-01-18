@@ -7,5 +7,87 @@
             "All images loaded in samirarnj/multimodal project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://samirarnj.github.io/multimodal/images/car/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "car"
+                ]
+            },
+            "height": 6226,
+            "width": 3504,
+            "items": [
+                {
+                    "id": "https://samirarnj.github.io/multimodal/images/car/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samirarnj.github.io/multimodal/images/car/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samirarnj.github.io/multimodal/images/car/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 110,
+                                                "height": 195
+                                            },
+                                            {
+                                                "width": 219,
+                                                "height": 390
+                                            },
+                                            {
+                                                "width": 438,
+                                                "height": 779
+                                            },
+                                            {
+                                                "width": 876,
+                                                "height": 1557
+                                            },
+                                            {
+                                                "width": 1752,
+                                                "height": 3113
+                                            },
+                                            {
+                                                "width": 3504,
+                                                "height": 6226
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3504,
+                                        "@id": "https://samirarnj.github.io/multimodal/images/car",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6226,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samirarnj.github.io/multimodal/images/car/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
