@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 97,
+    "height" : 162
+  }, {
+    "width" : 193,
+    "height" : 324
+  }, {
+    "width" : 386,
+    "height" : 648
+  }, {
+    "width" : 772,
+    "height" : 1296
+  }, {
+    "width" : 1543,
+    "height" : 2592
+  }, {
+    "width" : 3086,
+    "height" : 5184
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3086,
+  "@id" : "https://samirarnj.github.io/multimodal/images/aaron-huber-V09Io5ln-Qo-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5184
+}
