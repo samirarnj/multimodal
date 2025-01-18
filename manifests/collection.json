@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://samirarnj.github.io/multimodal/manifests/manifest2.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://samirarnj.github.io/multimodal/manifests/manifestcar1.json",
+    "label" : "[Click to edit label]"
   } ]
 }
