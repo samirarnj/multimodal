@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://samirarnj.github.io/multimodal/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://7d6daa69-b383-418b-b2f3-a243964a04b8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://6f32fd01-4404-4198-9d7d-d2ac951ca06a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 6226,
+      "width" : 3504,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d438020e-a3e3-44af-81d1-dacca78d7403",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samirarnj.github.io/multimodal/images/car/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samirarnj.github.io/multimodal/images/car",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6226,
+          "width" : 3504
+        },
+        "on" : "http://6f32fd01-4404-4198-9d7d-d2ac951ca06a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://74f37e69-2c13-4667-bc42-dc5d2d7709d4",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5184,
+      "width" : 3086,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://43f7e96d-52a6-44b2-8934-760e40135947",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samirarnj.github.io/multimodal/images/aaron-huber-V09Io5ln-Qo-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samirarnj.github.io/multimodal/images/aaron-huber-V09Io5ln-Qo-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5184,
+          "width" : 3086
+        },
+        "on" : "http://74f37e69-2c13-4667-bc42-dc5d2d7709d4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d865e97e-2507-4cf3-9862-d5633476b8e1",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5472,
+      "width" : 3648,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0f85b311-f8af-4fc6-aa2f-d0e97f5b8ff5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samirarnj.github.io/multimodal/images/oziel-gomez-O255DOFraAc-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samirarnj.github.io/multimodal/images/oziel-gomez-O255DOFraAc-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5472,
+          "width" : 3648
+        },
+        "on" : "http://d865e97e-2507-4cf3-9862-d5633476b8e1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
